@@ -1,3 +1,3 @@
-# alan_music
+# Rippin' Dem Tunes
 
-Ripping all of the metadata from (only) unique songs in Alan's original ~180GB of music. 
+Extracting all of the metadata from (only) unique songs in Alan's original ~180GB of music. 
